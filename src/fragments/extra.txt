@@ -1,0 +1,6 @@
+<div className="title font-bold">
+  <span className="num-image three"></span>
+  //Ship or Pickup YOUR MEDS
+</div>
+<div className="subtitle"> //Mailus your meds or our partner services will pick them up for you every month on time</div>
+</div>
