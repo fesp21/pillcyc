@@ -144,5 +144,12 @@
     "react-google-analytics": "0.2.0",
     "react-leaflet": "^1.0.0-rc.3",
     "tachyons": "4.5.5"
+  },
+  {
+  "scripts": {
+    // ...
+    "predeploy": "npm run build",
+    "deploy": "./scripts/deploy.sh"
   }
+}
 }
