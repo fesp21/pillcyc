@@ -10,7 +10,7 @@ export default class Menu extends React.Component {
     return (
       <nav className="bg-blue1 fixed absolute--fill">
         <a onClick={this.props.onClick} className="white f1 tr db pr3 pt2">&#x2715;</a>
-        {/* <div className="">ScaleConf</div> */}
+        {/* <div className="">Pillcycle</div> */}
         <ul className="list tc pl0 eau-bold">
           <li className="pv3">
             <a href="" className="no-underline white ttu f4">About</a>

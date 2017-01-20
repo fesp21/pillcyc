@@ -21,7 +21,7 @@ export default class CFP extends React.Component {
           <br/>
           Share your knowledge!
         </p>
-        <a href="https://www.papercall.io/scaleconfco" className="bg-green dib mt4 no-underline open-sans pa3 f4">
+        <a href="https://www.papercall.io/pillcycle" className="bg-green dib mt4 no-underline open-sans pa3 f4">
           Be a speaker
         </a>
       </div>

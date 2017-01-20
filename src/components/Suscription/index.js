@@ -6,7 +6,7 @@ export default class Suscription extends Component {
       <div className="mt3 tc center">
         {/* <h2 className="f3 ttu mt0">{ 'Join our mailing list' }</h2> */}
         <form
-          action="//scaleconfco.us13.list-manage.com/subscribe/post?u=5e496acbac5eeec4a22312bd0&amp;id=96c6dc44ae"
+          action="//pillcycle.us13.list-manage.com/subscribe/post?u=5e496acbac5eeec4a22312bd0&amp;id=96c6dc44ae"
           method="post"
         >
           <input

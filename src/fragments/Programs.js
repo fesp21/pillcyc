@@ -28,7 +28,7 @@ const Programs = () => {
           your pharmacy needs.
         </p>
       </div>
-      <img src={require('../../src/assets/images/drugscy.jpeg')} alt="ScaleConf Colombia Scholarships" className="w-100 w-40-l dib-l"/>
+      <img src={require('../../src/assets/images/drugscy.jpeg')} alt="pillcycle Colombia Scholarships" className="w-100 w-40-l dib-l"/>
     </div>
   );
 }

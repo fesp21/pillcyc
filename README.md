@@ -1,4 +1,4 @@
-# ScaleConfCo Website
+# Pillcycle Website
 
 ## Install dependencies
 

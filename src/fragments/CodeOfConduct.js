@@ -7,7 +7,7 @@ const CodeOfConduct = () => {
         <span className="eau-bold">Our code of</span> conduct
       </h2>
       <p className="open-sans blue1 lh-copy f4-l">
-        A primary goal of ScaleConf Colombia is to be inclusive to the largest
+        A primary goal of pillcycle Colombia is to be inclusive to the largest
         number of contributors, with the most varied and diverse backgrounds
         possible. As such, we are committed to providing a friendly, safe and
         welcoming environment for all, regardless of gender, sexual orientation,
@@ -16,10 +16,10 @@ const CodeOfConduct = () => {
         in our community, as well as the consequences for unacceptable behavior.
         <br />
         <br />
-        We invite all those who participate in ScaleConf Colombia to help us
+        We invite all those who participate in pillcycle Colombia to help us
         create safe and positive experiences for everyone.
       </p>
-      <a href="https://github.com/ScaleConfCo/code-of-conduct" className="bg-blue1 dib white pa3 mt4 no-underline open-sans center">
+      <a href="https://github.com/pillcycle/code-of-conduct" className="bg-blue1 dib white pa3 mt4 no-underline open-sans center">
         Read Code of Conduct
       </a>
     </div>

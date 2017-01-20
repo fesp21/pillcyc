@@ -47,7 +47,7 @@ export default class About extends React.Component {
           </h4>
           <Suscription />
         </div>
-        <img src={require('../../src/assets/images/pharmapills.jpeg')} alt="ScaleConf Colombia" className="pl4-l w-30 dib-l dn"/>
+        <img src={require('../../src/assets/images/pharmapills.jpeg')} alt="pillcycle Colombia" className="pl4-l w-30 dib-l dn"/>
       </div>
     );
   }

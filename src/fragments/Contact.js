@@ -15,7 +15,7 @@ class Contact extends Component {
         <div className="mw6 center">
           <Suscription />
         </div>
-        <a href="mailto: hola@scaleconfco.com" className="eau-book blue tc db mv3 b">
+        <a href="mailto: hola@pillcycle.com" className="eau-book blue tc db mv3 b">
           contact@pillcycle.com
         </a>
         <SocialIcons />
